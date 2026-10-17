@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Enterprise Student Record & Academic Management Platform
 
 Python 3.11 / Flask REST API with Pytest, Flake8, Jenkins CI, Docker and Kubernetes (Minikube).
@@ -42,3 +43,6 @@ minikube image load student-academic-platform:v1.0.0
 kubectl apply -f k8s/
 kubectl get pods -l app=student-platform
 ```
+=======
+# student-academic-platform
+>>>>>>> 34ca389efbf5c81011fd4eb17a3424c18a904dc1
